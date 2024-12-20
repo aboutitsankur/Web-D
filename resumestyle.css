@@ -1,0 +1,46 @@
+/* Custom Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: burlywood;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #92f80c;
+}
+
+h3 {
+    font-weight: lighter;
+    color: #4d0f87;
+}
+
+.job, .reference {
+    margin-bottom: 20px;
+}
+
+.job h5, .reference h5 {
+    font-size: 1.25rem;
+    color: #333;
+}
+
+.job h6, .reference p {
+    font-size: 1rem;
+    color: #777;
+}
+
+ul.list-unstyled li {
+    font-size: 1rem;
+    color: #555;
+}
+
+img {
+    border: 5px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    background-color: chocolate;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}

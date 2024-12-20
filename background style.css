@@ -1,0 +1,39 @@
+body{
+    background-image: url(background\ image.jpg);
+    background-size: 100%;
+    background-position: bottom;
+    background-origin: inherit;
+    background-attachment: fixed;
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 10%;
+}
+P{
+    color: white;
+    text-align: center;
+}
+h1{
+    color: azure;
+    text-align: center;
+}
+.class{
+    border: 1;
+    border-color: blue;
+}
+h4{
+    color: red;
+    text-align: center;
+}
+table, tr, td{
+    color: azure;
+    align-items: center;
+    text-align: center;
+}
+
+.social{
+    margin: 5px;
+}
+table{
+    width: 100%;
+}

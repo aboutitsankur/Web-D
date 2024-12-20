@@ -1,0 +1,38 @@
+* {
+    color: white;
+}
+body {
+    background-color: black;
+    overflow: hidden;
+}
+.folio {
+    width: 6.4%;
+    text-align: center;
+}
+#name {
+    width: 68%;
+    text-align: left;
+    
+}
+table {
+    width: 100%;
+
+}
+button {
+    color: white;
+    background-color: brown;
+    width: 100px;
+    margin-right: 50px;
+}
+table,
+td,
+a {
+    text-decoration: none;
+}
+#target {
+    background-color: rgb(43, 42, 42);
+}
+#port {
+    padding: 50px;
+    text-align: center;
+}
